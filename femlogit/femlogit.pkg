@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'femlogit': Multinomial (polytomous) logistic regression with fixed effects Use femlogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f femlogit.ado
+f femlogit.sthlp
+f femlogit_eval_gf2.mo
+f mata_eval_moptgf2.mata
