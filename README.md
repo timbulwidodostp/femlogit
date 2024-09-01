@@ -1,6 +1,8 @@
 # femlogit
 Multinomial (polytomous) logistic regression with fixed effects Use femlogit With STATA 18
 
+https://www.youtube.com/watch?v=rQ_knVIgdOk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
